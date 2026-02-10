@@ -21,7 +21,7 @@ HTML_PAGE = """
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Welcome to jinx97</title>
+    <title>Welcome to AUTHENTICATOR</title>
     <style>
         body {
             background-color: #000;
