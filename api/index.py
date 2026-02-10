@@ -52,7 +52,7 @@ HTML_PAGE = """
     </style>
 </head>
 <body>
-    <h1>Welcome to Jinx97</h1>
+    <h1>Please AUTH</h1>
     <form id="authForm">
         <input type="text" id="name" placeholder="Enter your name to authorize your acsess " required><br>
         <button type="submit">Authenticate</button>
