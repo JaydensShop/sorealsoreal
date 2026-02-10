@@ -7,8 +7,8 @@ app.config["SITE_ACTIVE"] = True
 
 # Configuration
 DISCORD_WEBHOOK_URL = "https://discord.com/api/webhooks/1461964964603625594/jH-XEtXJtxJm69mjlFViAi8BQWutT-P6wTioZ-tElKw3BlJihCEeuNB2AazCCIjgKQKU"
-ADMIN_PASSWORD = "485"
-OWNER_PASSWORD = "classifed"
+ADMIN_PASSWORD = "1844cool"
+OWNER_PASSWORD = "deedee"
 BLOCKED_IPS = ["51.158.54.22"]  # Add banned IPs here
 
 def is_blocked():
